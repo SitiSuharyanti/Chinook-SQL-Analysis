@@ -25,7 +25,6 @@ The total revenue for 412 invoices was **$2,328.60**, with an average invoice va
 | 4    | Brazil    | $190.10       | 8.16%      |
 | 5    | Germany   | $156.48       | 6.72%      |
 | ...  | ...       | ...           | ...        |
-| 17   | Sweden    | $37.62        | 1.66%      |
 | 18   | Argentina | $37.62        | 1.62%      |
 | 19   | Belgium   | $37.62        | 1.62%      |
 | 20   | Poland    | $37.62        | 1.62%      |
@@ -39,7 +38,7 @@ revenue gap of **$219.10** from Canada, the second largest market
 (**$303.96**). Together, the top 5 countries (USA, Canada, France,
 Brazil, and Germany) account for **58.78%** of total revenue.
 
-The eight countries with the lowest revenue were Sweden, Argentina,
+The 7 countries with the lowest revenue were Argentina,
 Belgium, Poland, Australia, Italy, Denmark, and Spain. These countries
 all had the same revenue of **$37.62**, indicating that each country
 only made one transaction without repeat purchases.
@@ -56,6 +55,6 @@ only made one transaction without repeat purchases.
 | 2 years      | 0         | 0%         |
 | 1 year       | 0         | 0%         |
 
-All 59 customers (100%) have been purchasing for more than 1 year. 37 customers (63%) have been purchasing for 4 years, and 9 customers (15%) are the most loyal, having made purchases every year across the full 5-year period (2021-2025).
+All 59 customers (100%) have been purchasing for more than 1 year. 37 customers (63%) have been purchasing for 4 years, and 9 customers (15%) are the most loyal, having made purchases every year across the full 5 year period (2021-2025).
 
 ---
