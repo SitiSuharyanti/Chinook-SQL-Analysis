@@ -102,8 +102,7 @@ All SQL files are in the `queries/` folder, organized by complexity:
 
 ## How to Run
 
-1. Download the Chinook database (PostgreSQL version):
-   👉 https://github.com/lerocha/chinook-database
+1. Download the Chinook database (PostgreSQL version): https://github.com/lerocha/chinook-database
 
 2. Load it into PostgreSQL:
 
