@@ -72,7 +72,7 @@ All SQL files are in the queries/ folder, organized by complexity:
 | -------------------------------- | ------------------ | --------------------------------------------------- |
 | level_1_basic_select.sql       | Basic SELECT       | SELECT, WHERE, ORDER BY, LIMIT, COUNT     |
 | level_2_aggregations.sql       | Aggregations       | SUM, AVG, COUNT, GROUP BY                   |
-| level_3_joins.sql              | Joins              | JOIN across 2–4 tables                            |
+| level_3_joins.sql              | Joins              | JOIN across 2-4 tables                            |
 | level_4_ctes.sql               | CTEs               | WITH, CROSS JOIN, DATE_TRUNC, DISTINCT ON   |
 | level_5_window_functions.sql   | Window Functions   | RANK(), ROW_NUMBER(), SUM() OVER, CASE WHEN |
 | level_6_business_analytics.sql | Business Analytics | LAG(), HAVING, EXTRACT, PARTITION BY        |
@@ -96,7 +96,7 @@ All SQL files are in the queries/ folder, organized by complexity:
 | Top sales agent        | Jane Peacock at $833.04                                                             |
 | Customer retention     | 100% of customers active across multiple years, with 63% purchasing in 4 out of 5 years |
 
-See findings/findings.md for the full analysis and business recommendations.
+See [findings/findings.md](findings/findings.md) for the full analysis and business recommendations.
 
 ---
 
@@ -131,7 +131,7 @@ Note: Some queries use PostgreSQL specific syntax such as DATE_TRUNC, DISTINCT O
 | ------------------- | ---------------------------------------------------------- |
 | Filtering & sorting | WHERE, ORDER BY, LIMIT                               |
 | Aggregation         | SUM, AVG, COUNT, GROUP BY                          |
-| Multi-table joins   | JOIN across 2–4 tables                                   |
+| Multi-table joins   | JOIN across 2-4 tables                                   |
 | Reusable subqueries | WITH (CTEs), CROSS JOIN                                |
 | Window functions    | RANK(), ROW_NUMBER(), LAG(), SUM() OVER            |
 | Segmentation        | CASE WHEN, PARTITION BY, HAVING                      |
