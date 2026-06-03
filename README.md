@@ -60,7 +60,7 @@ The Chinook database represents a digital music store with the following key tab
 
 ### Entity Relationship Diagram
 
-![ERD](assets/erd.png)
+![ERD](Assets/erd.png)
 
 ---
 
@@ -96,7 +96,7 @@ All SQL files are in the queries/ folder, organized by complexity:
 | Top sales agent        | Jane Peacock at $833.04                                                             |
 | Customer retention     | 100% of customers active across multiple years, with 63% purchasing in 4 out of 5 years |
 
-See [findings/findings.md](findings/findings.md) for the full analysis and business recommendations.
+See [Findings/findings.md](Findings/findings.md) for the full analysis and business recommendations.
 
 ---
 
