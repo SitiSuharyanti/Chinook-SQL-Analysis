@@ -4,8 +4,6 @@ A business-focused SQL analysis of a digital music store using the Chinook datab
 
 > **Dataset:** 59 customers · 412 invoices · 3,503 tracks · 24 countries · 2021–2025
 
----
-
 ## Business Questions Answered
 
 - Which countries and customers generate the most revenue?
@@ -17,8 +15,6 @@ A business-focused SQL analysis of a digital music store using the Chinook datab
 - Is the business growing month over month?
 - Which sales agents perform best?
 - What does customer retention look like across years?
-
----
 
 ## Project Structure
 
@@ -41,8 +37,6 @@ chinook-sql-analysis/
 └── README.md
 ```
 
----
-
 ## Database Schema
 
 The Chinook database represents a digital music store with the following key tables:
@@ -62,8 +56,6 @@ The Chinook database represents a digital music store with the following key tab
 
 ![ERD](Assets/erd.png)
 
----
-
 ## Queries
 
 All SQL files are in the queries/ folder, organized by complexity:
@@ -76,8 +68,6 @@ All SQL files are in the queries/ folder, organized by complexity:
 | level_4_ctes.sql               | CTEs               | WITH, CROSS JOIN, DATE_TRUNC, DISTINCT ON   |
 | level_5_window_functions.sql   | Window Functions   | RANK(), ROW_NUMBER(), SUM() OVER, CASE WHEN |
 | level_6_business_analytics.sql | Business Analytics | LAG(), HAVING, EXTRACT, PARTITION BY        |
-
----
 
 ## Key Findings Summary
 
@@ -98,8 +88,6 @@ All SQL files are in the queries/ folder, organized by complexity:
 
 See [Findings/findings.md](Findings/findings.md) for the full analysis and business recommendations.
 
----
-
 ## How to Run
 
 1. Download the Chinook database (PostgreSQL version): https://github.com/lerocha/chinook-database
@@ -114,16 +102,11 @@ See [Findings/findings.md](Findings/findings.md) for the full analysis and busin
 
 Note: Some queries use PostgreSQL specific syntax such as DATE_TRUNC, DISTINCT ON, and EXTRACT. Adjustments may be needed for MySQL or SQLite.
 
----
-
 ## Tools Used
 
 - Database: PostgreSQL
 - SQL Client: pgAdmin
 - Dataset: [Chinook Database](https://github.com/lerocha/chinook-database)
-- AI Assistance: Claude (Anthropic) was used to help interpret results and structure findings. All SQL queries were written independently.
-
----
 
 ## SQL Concepts Covered
 
