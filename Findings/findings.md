@@ -2,8 +2,6 @@
 
 Analysis of a digital music store covering 59 customers, 412 invoices, and 3,503 tracks across 24 countries from 2021 to 2025.
 
----
-
 ## 1. Revenue Overview
 
 - Total revenue: $2,328.60
@@ -12,8 +10,6 @@ Analysis of a digital music store covering 59 customers, 412 invoices, and 3,503
 - Total tracks in catalog: 3,503
 
 The total revenue for 412 invoices was $2,328.60, with an average invoice value of $5.65. This average is relatively low, indicating that most customers only purchased a few individual tracks per transaction rather than full albums.
-
----
 
 ## 2. Top Markets by Revenue
 
@@ -37,8 +33,6 @@ The USA was the country with the highest revenue at $523.06, with a revenue gap 
  
 The 7 countries with the lowest revenue were Argentina, Belgium, Poland, Australia, Italy, Denmark, and Spain. These countries all had the same revenue of $37.62, indicating that each country only made one transaction without repeat purchases.
 
----
-
 ## 3. Customer Retention
 
 | Active Years | Customers | % of Total |
@@ -50,5 +44,3 @@ The 7 countries with the lowest revenue were Argentina, Belgium, Poland, Austral
 | 1 year       | 0         | 0%         |
 
 All 59 customers (100%) have been purchasing for more than 1 year. 37 customers (63%) have been purchasing for 4 years, and 9 customers (15%) are the most loyal, having made purchases every year across the full 5 year period (2021 to 2025).
-
----
