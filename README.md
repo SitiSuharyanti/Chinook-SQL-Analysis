@@ -2,7 +2,7 @@
 
 A business-focused SQL analysis of a digital music store using the Chinook database. This project answers real business questions across 6 progressive levels, ranging from basic exploration to advanced analytics, using PostgreSQL.
 
-> **Dataset:** 59 customers · 412 invoices · 3,503 tracks · 24 countries · 2021–2025
+**Dataset:** 59 customers · 412 invoices · 3,503 tracks · 24 countries · 2021–2025
 
 ## Business Questions Answered
 
